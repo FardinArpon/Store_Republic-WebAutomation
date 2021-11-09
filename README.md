@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# Selenium_Junit_Java_demoqa.com
+
+# Store Republic webAutomation
 Web-automation test project. In this project work with Selenium Web-Driver, Juint test runner on java language.
 
-the website link is https://demoqa.com/
-=======
-# Selenium_Junit_Java_demoqa.com
-Web-automation test project. In this project work with Selenium Web-Driver, Juint test runner on java language.
-
-the website link is https://demoqa.com/
+##the website link is https://www.storerepublic.com/
 
 ## Technology:
 - Tool: selenium
 - IDE: IntelIJ
 - Build tool: Gradle
 - Language: Java
-- Test_Runner: Junit
+- Test_Runner: Junit/testNg
 
 ## Prerequisite:
 1. Need to install jdk 1.8
