@@ -27,11 +27,4 @@ gradle clean test
 ```sh
 ```
 ## Report View & Screen Rec.
-https://drive.google.com/file/d/1htkBjyPfcj3XDzt1F4jjnCn1iBWNqGOa/view?usp=sharing
 
-![image](https://user-images.githubusercontent.com/87892957/134742550-92c61e7c-bd3e-4288-a89a-37e654943904.png)
-
-
-
-
->>>>>>> 408240282a0bd10e4d50dd282eb00add6fa93c18
